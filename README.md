@@ -16,9 +16,10 @@
 - **AI/ML:** sklearn, PyTorch, TensorFlow
 
 ## Projects
-- **Travel Expense Splitter:** Utilized web development frameworks and databases to build and scale a application to allow for friends to keep track of expense during trips. 
+- **Travel Expense Splitter:** Utilized web development frameworks and databases to build and scale a application to allow for friends to keep track of expense during trips.
+- **Medical Diagnosis Prediction:** I implemented a machine learning pipeline to improve diagnosis accuracy for shock trauma patients at the shock truma hospital.
 - **Fraud Detection System:**  Developed an AI-based system during my internships at Chailce AI to identify fraudulent transactions, significantly reducing false positives.
-- **Medical Diagnosis Prediction:** I implemented a machine learning pipeline to improve diagnosis accuracy for shock trauma patients.
+
 
 ## Achievements
 - Improved an ML model's AUC score by 4% in a real-world healthcare application.
