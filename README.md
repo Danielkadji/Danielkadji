@@ -1,4 +1,3 @@
-# Hello, I'm Daniel Kadji! 👋
 
 ## About Me
 🎓 I'm a Computer Science major from the University of Maryland, Baltimore County, specializing in Artificial Intelligence and Machine Learning.
